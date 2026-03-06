@@ -26,6 +26,5 @@ To replicate the environment used for model training and analysis, follow these 
    conda list
    ```
 
-
 For any queries on the work, please email cez218290@iitd.ac.in.
 
